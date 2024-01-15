@@ -2,8 +2,8 @@
 title: "Lab 1: Getting Started"
 subtitle: "**Due:** Monday, January 15, 11:59 PM"
 author: 
-    - "**Name:** [Your name here]"
-    - "**Mac ID:** [The first half of your Mac email address]"
+    - "**Name:** [Raneem Hamed]"
+    - "**Mac ID:** [Hamedr3]"
 format: 
      pdf:
        documentclass: article
