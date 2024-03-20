@@ -2,8 +2,8 @@
 title: "Lab 9: Field Experiments II"
 subtitle: "**Due:** Monday, March 18, 11:59 PM"
 author: 
-    - "**Name:** Your name here"
-    - "**Mac ID:** The first half of your Mac email address"
+    - "**Name:** Raneem Hamed"
+    - "**Mac ID:** Hamedr3"
 format: 
      pdf:
        documentclass: article
